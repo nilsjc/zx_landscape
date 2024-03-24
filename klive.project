@@ -14,9 +14,7 @@
   },
   "builder": {
     "roots": [
-      "/code/code.kz80.asm",
-      "/code/code.zxb.asm",
-      "/code/program.zxbas"
+      "/code/code.kz80.asm"
     ]
   },
   "ide": {},
