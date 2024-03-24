@@ -1,0 +1,30 @@
+{
+  "machineType": "sp48",
+  "viewOptions": {
+    "showToolbar": true,
+    "showSidebar": true,
+    "showFrameInfo": true,
+    "showKeyboard": false,
+    "showStatusbar": true,
+    "keyboardHeight": 0
+  },
+  "debugger": {
+    "breakpoints": [],
+    "resolved": []
+  },
+  "builder": {
+    "roots": [
+      "/code/code.kz80.asm",
+      "/code/code.zxb.asm",
+      "/code/program.zxbas"
+    ]
+  },
+  "ide": {},
+  "machineSpecific": {
+    "fastLoad": true,
+    "lastTapeFile": null,
+    "clockMultiplier": 1,
+    "soundLevel": 0.5,
+    "muted": false
+  }
+}
